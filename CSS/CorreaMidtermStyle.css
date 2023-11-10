@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(97, 250, 255);
+    background-image: url(rabbit2.jpg);
+    background-repeat: repeat-y;
+    background-position: right top;
+    background-attachment: fixed;
+}
+h1{
+    background-color: blue;
+    color: white;
+    text-align: center;
+    text-decoration: underline;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+}
+#basic{
+    background-color: yellow;
+    font-family: arial Arial, Helvetica, sans-serif;
+    font size: 25px;
+}
+#songs{
+    background-color: pink;
+    font-family: Verdana,Tahoma, sans-serif;
+    font-size: 25px;
+}
+#why{
+    background-color: green;
+    font-family: 'Times New Roman', georgia, serif;
+    font-size: 25px;
+}
+#top3{
+    background-color: purple;
+    font-family: 'Perpetua', 'Poor Richard',serif;
+    font-size: 25px;
+}
+#lyrics{
+    background-color: yellowgreen;
+    text-align: center;
+}
