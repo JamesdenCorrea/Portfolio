@@ -1,0 +1,87 @@
+div{
+    background-color: rgb(252,213,10);
+    border: 20px solid rgb(127,27,22);
+    border-radius: 18px;
+    width: 500px;
+    padding: 25px;
+    margin: 25px;
+}
+body{
+    background-color: teal;
+    background-image:url("logo.png");
+    background-repeat: repeat-y;
+    background-position: right top;
+    background-attachment: scroll;
+}
+h1{
+    width: 1250px;
+    background-color: rgb(127,27,22);
+    border: 5px solid rgb(252,213,10);
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+}
+#basic{
+    background-color: rgb(127,27,22);
+    border: 5px solid rgb(127,27,22);
+    color: white;
+    font-family: arial Arial, Helvetica, sans-serif;
+    font size: 25px;
+}
+#songs{
+    background-color: rgb(127,27,22);
+    border: 5px solid rgb(127,27,22);
+    width: 600px;
+    color: white;
+    font-family: Verdana,Tahoma, sans-serif;
+    font-size: 25px;
+}
+#why{
+    background-color: rgb(127,27,22);
+    border: 5px solid rgb(127,27,22);
+    width: 600px;
+    color: white;
+    font-family: 'Times New Roman', georgia, serif;
+    font-size: 25px;
+}
+#top3{
+    color: white;
+    background-color: rgb(127,27,22);
+    border: 5px solid rgb(127,27,22);
+    width: 600px;
+    font-family: 'Perpetua', 'Poor Richard',serif;
+    font-size: 25px;
+}
+#lyrics{
+    background-color: rgb(127,27,22);
+    border: 5px solid rgb(127,27,22);
+    color: white;
+    font-size: 15px;
+    font-family: arial Arial, Helvetica, sans-serif;
+}
+ol{
+    border: 20px solid;
+    border-radius: 18px;
+    width: 600px;
+    color: rgb(127,20,22);
+    background-color: rgb(252,213,10);
+    outline-style: solid;
+    outline-color: rgb(127,20,22);
+    text-align: start;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+li{ 
+    border-radius: 15px;
+    width: 400px;
+    padding: 20px;
+    margin: 20px;
+    color: rgb(127,20,22);
+    outline-style: solid;
+    outline-color: rgb(127,20,22);
+    text-align: start;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;  
+
+}
